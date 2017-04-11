@@ -10,7 +10,7 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 ## 講義日程と資料
 - ケーススタディ [Case Study](https://github.com/haruosuz/DS4GD/blob/master/CaseStudy.md)
 - 2017-04-11 第1回 イントロダクション
-- 2017-04-18 第2回 [生物学的データ Biological data](https://github.com/haruosuz/books/tree/master/bbs#chapter-1-introduction)
+- 2017-04-18 第2回 生物学的データ [Biological data](https://github.com/haruosuz/books/tree/master/bbs#chapter-1-introduction)
 - 2017-04-25 第3回 R言語入門 [Introduction to R](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#how-to-install-r-and-a-brief-introduction-to-r)
 - 2017-05-02 第4回 DNA配列の統計解析 (1) [DNA Sequence Statistics (1)](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#dna-sequence-statistics-1)
 - 2017-05-09 第5回 DNA配列の統計解析 (2) [DNA Sequence Statistics (2)](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#dna-sequence-statistics-2)
@@ -18,12 +18,12 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 - 2017-05-16 第6回 タンパク質配列解析 [Protein sequence analysis](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#pairwise-sequence-alignment)
 - 2017-05-20 (土) 補講 [Dr. Hugues Richard](http://www.lcqb.upmc.fr/hrichard/index.html)
 - 2017-05-23 第7回 [休講](http://ngs5.org/)
-- 2017-05-30 第8回 中間発表 
-- 2017-06-06 第9回 ペアワイズ配列アラインメント [Pairwise Sequence Alignment]
-- 2017-06-13 第10回 多重配列アライメント [Multiple Sequence Alignment]
-- 2017-06-20 第11回 系統解析 [Phylogenetic Analysis]
-- 2017-07-04 第12回 クラスター分析 [Cluster Analysis]
-- 2017-07-04 第13回 ヒートマップ [Heat Map]
+- 2017-05-30 第8回 中間発表
+- 2017-06-06 第9回 
+- 2017-06-13 第10回 
+- 2017-06-20 第11回 
+- 2017-07-04 第12回 
+- 2017-07-04 第13回 
 - 2017-07-11 第14回 [最終発表](#最終発表)
 - 2017-07-18 [レポート](#レポート)提出期限
 
@@ -79,8 +79,6 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 ![http://www.quizbiology.com/2013/05/bioinformatics-mcq-quiz.html](http://lh5.ggpht.com/-RVDAcMLXpPQ/UaLVfpoguLI/AAAAAAAAGdw/n8DEk4aPAIg/Bioinformatics%252520Resources%25255B11%25255D.png)
 
 #### DNA塩基配列
-[SILVA rRNA database](https://www.arb-silva.de)
-
 ![http://www.arb-silva.de/documentation/sina-tutorial/](http://www.arb-silva.de/fileadmin/graphics_general/main/tutorial_aligner/aligner_basic01.png)  
 
 #### タンパク質のアミノ酸配列  
@@ -107,7 +105,7 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 	date
 	touch test.txt
 
-ターミナルで以下のコマンドを実行し、レポートのサンプルを取得する:  
+レポートのサンプルを取得する:  
 
 	wget https://github.com/haruosuz/DS4GD/raw/master/2017/examples_2016.tar.gz
 
@@ -129,7 +127,7 @@ Rを終了:
 ### 学習サイト
 - ドットインストール - 3分動画でマスターする初心者向けプログラミング学習サイト
   - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix) の動画レッスン番号 #04 ~ #16
-   - [#10 ファイルの作成、削除、コピー、移動 (02:55)](http://dotinstall.com/lessons/basic_unix/5410) では、エディタ`vim`の代わりに、`touch test.txt`を実行して、ファイルを作成すればよい。
+    - [#10 ファイルの作成、削除、コピー、移動 (02:55)](http://dotinstall.com/lessons/basic_unix/5410) では、エディタ`vim`の代わりに、`touch test.txt`を実行して、ファイルを作成すればよい。
  - [R言語入門 (全13回)](http://dotinstall.com/lessons/basic_r)
 
 ----------
