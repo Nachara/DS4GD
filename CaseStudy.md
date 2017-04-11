@@ -3,30 +3,24 @@
 ----------
 
 # Case Study
-ケーススタディ
+**ケーススタディ**
 
+目次
+- [Unixコマンド]
 - [UniProtKB Swiss-Prot protein sequence database](#uniprotkb-swiss-prot-protein-sequence-database)
 - [Silva rRNA database](#silva-rrna-database)
 - [NCBI assembly summary](#ncbi-assembly-summary)
 
-### 手順
-
-1. [ターミナル](http://techacademy.jp/magazine/5155)を開く。
-2. Download: データを[`wget`](http://blog.layer8.sh/ja/2012/03/31/wget_command/)または[`curl`](https://ja.wikipedia.org/wiki/CURL)コマンドでダウンロードする。データの説明（いつ・どこからダウンロードしたのか、日付やウェブサイトのURL等）を記録する。
-3. Inspecting Data: データをUnixコマンドで調査する。
-4. Working with Data in R: データをR言語で解析・視覚化する。
-
 ----------
 
 ### Unixコマンド
-
 ![http://techacademy.jp/magazine/5155](http://static.techacademy.jp/magazine/wp-content/uploads/2015/01/ss-1-620x375.jpg)
 
 [ターミナル](http://techacademy.jp/magazine/5155)を開き、`bash`を起動する:  
 
 	bash
 
-ターミナルで以下のコマンドを実行する:  
+[ターミナルの主要コマンド](https://techacademy.jp/magazine/5155#sec3)
 
 	# ディレクトリ間を移動する
 	cd
