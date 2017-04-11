@@ -8,9 +8,9 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
   - [Avril Coghlan - A Little Book of R For Bioinformatics, 2011, 73p.](https://a-little-book-of-r-for-bioinformatics.readthedocs.org/en/latest/)
 
 ## 講義日程と資料
+- ケーススタディ [Case Study](https://github.com/haruosuz/DS4GD/blob/master/CaseStudy.md)
 - 2017-04-11 第1回 イントロダクション
 - 2017-04-18 第2回 [生物学的データ Biological data](https://github.com/haruosuz/books/tree/master/bbs#chapter-1-introduction)
- - ケーススタディ [Case Study](https://github.com/haruosuz/DS4GD/blob/master/CaseStudy.md)
 - 2017-04-25 第3回 R言語入門 [Introduction to R](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#how-to-install-r-and-a-brief-introduction-to-r)
 - 2017-05-02 第4回 DNA配列の統計解析 (1) [DNA Sequence Statistics (1)](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#dna-sequence-statistics-1)
 - 2017-05-09 第5回 DNA配列の統計解析 (2) [DNA Sequence Statistics (2)](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#dna-sequence-statistics-2)
@@ -105,6 +105,7 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 	ls
 	pwd
 	date
+	touch test.txt
 
 ターミナルで以下のコマンドを実行し、レポートのサンプルを取得する:  
 
@@ -127,8 +128,8 @@ Rを終了:
 
 ### 学習サイト
 - ドットインストール - 3分動画でマスターする初心者向けプログラミング学習サイト
- - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix) の動画レッスン番号 #04 ~ #16
-  - [#10 ファイルの作成、削除、コピー、移動 (02:55)](http://dotinstall.com/lessons/basic_unix/5410) では、エディタ`vim`の代わりに、`touch test.txt`を実行して、ファイルを作成すればよい。
+  - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix) の動画レッスン番号 #04 ~ #16
+   - [#10 ファイルの作成、削除、コピー、移動 (02:55)](http://dotinstall.com/lessons/basic_unix/5410) では、エディタ`vim`の代わりに、`touch test.txt`を実行して、ファイルを作成すればよい。
  - [R言語入門 (全13回)](http://dotinstall.com/lessons/basic_r)
 
 ----------
