@@ -124,8 +124,7 @@ Rを終了:
 
 ### 学習サイト
 - ドットインストール - 3分動画でマスターする初心者向けプログラミング学習サイト
-  - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix) の動画レッスン番号 #04 ~ #16
-    - [#10 ファイルの作成、削除、コピー、移動 (02:55)](http://dotinstall.com/lessons/basic_unix/5410) では、エディタ`vim`の代わりに、`touch test.txt`を実行して、ファイルを作成すればよい。
- - [R言語入門 (全13回)](http://dotinstall.com/lessons/basic_r)
+  - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix)
+  - [R言語入門 (全13回)](http://dotinstall.com/lessons/basic_r)
 
 ----------
