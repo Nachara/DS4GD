@@ -78,11 +78,15 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 
 ![http://www.quizbiology.com/2013/05/bioinformatics-mcq-quiz.html](http://lh5.ggpht.com/-RVDAcMLXpPQ/UaLVfpoguLI/AAAAAAAAGdw/n8DEk4aPAIg/Bioinformatics%252520Resources%25255B11%25255D.png)
 
-#### DNA塩基配列
+#### [DNA塩基](http://www.ddbj.nig.ac.jp/sub/ref1-j.html)配列
+[SILVA rRNA database](https://www.arb-silva.de)
+
 ![http://www.arb-silva.de/documentation/sina-tutorial/](http://www.arb-silva.de/fileadmin/graphics_general/main/tutorial_aligner/aligner_basic01.png)
 
-#### タンパク質のアミノ酸配列
+#### タンパク質の[アミノ酸](http://www.ddbj.nig.ac.jp/sub/ref2-j.html)配列
 [UniProt](https://ja.wikipedia.org/wiki/Swiss-Prot)
+
+![http://www.uniprot.org/help/about](http://www.uniprot.org/images/overview.png)
 
 ----------
 
