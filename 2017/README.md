@@ -10,6 +10,7 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 ## 講義日程と資料
 - 2017-04-11 第1回 イントロダクション
 - 2017-04-18 第2回 [生物学的データ Biological data](https://github.com/haruosuz/books/tree/master/bbs#chapter-1-introduction)
+ - ケーススタディ [Case Study](https://github.com/haruosuz/DS4GD/blob/master/CaseStudy.md)
 - 2017-04-25 第3回 R言語入門 [Introduction to R](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#how-to-install-r-and-a-brief-introduction-to-r)
 - 2017-05-02 第4回 DNA配列の統計解析 (1) [DNA Sequence Statistics (1)](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#dna-sequence-statistics-1)
 - 2017-05-09 第5回 DNA配列の統計解析 (2) [DNA Sequence Statistics (2)](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#dna-sequence-statistics-2)
@@ -18,11 +19,11 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 - 2017-05-20 (土) 補講 [Dr. Hugues Richard](http://www.lcqb.upmc.fr/hrichard/index.html)
 - 2017-05-23 第7回 [休講](http://ngs5.org/)
 - 2017-05-30 第8回 中間発表 
-- 2017-06-06 第9回 ペアワイズ配列アラインメント [Pairwise Sequence Alignment]()
-- 2017-06-13 第10回 多重配列アライメント [Multiple Sequence Alignment]()
-- 2017-06-20 第11回 系統解析 [Phylogenetic Analysis]()
-- 2017-07-04 第12回 クラスター分析 [Cluster Analysis]()
-- 2017-07-04 第13回 ヒートマップ [Heat Map]()
+- 2017-06-06 第9回 ペアワイズ配列アラインメント [Pairwise Sequence Alignment]
+- 2017-06-13 第10回 多重配列アライメント [Multiple Sequence Alignment]
+- 2017-06-20 第11回 系統解析 [Phylogenetic Analysis]
+- 2017-07-04 第12回 クラスター分析 [Cluster Analysis]
+- 2017-07-04 第13回 ヒートマップ [Heat Map]
 - 2017-07-11 第14回 [最終発表](#最終発表)
 - 2017-07-18 [レポート](#レポート)提出期限
 
@@ -104,12 +105,46 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 
 ターミナルで以下のコマンドを実行する:  
 
+	# ディレクトリ間を移動する
 	cd
-	ls
-	pwd
-	date
 
-ターミナルで以下のコマンドを実行し、最終発表スライドとレポートのサンプルを取得する:  
+	# 現在のディレクトリ内に存在する、ディレクトリやファイルを表示する
+	ls
+
+	# 今開いているディレクトリまでのパスを表示する
+	pwd
+
+	# 「projects」ディレクトリを作成する
+	mkdir projects
+
+	# 「projects」ディレクトリへ移動する
+	cd projects/
+
+	# 空ファイルを作成する
+	touch test.txt
+
+	# ファイルをコピーする
+	cp test.txt test2.txt
+
+	# ファイルやディレクトリの名前を変更する
+	mv test.txt test1.txt
+
+	# ファイルを削除する
+	rm test2.txt
+
+	# コマンドのマニュアルを開く。終了する場合に「q」を入力
+	man man
+
+	# ファイルやディレクトリの検索
+	find .
+
+	# ターミナル画面をクリアし、表示された文字を全て消去する
+	clear
+
+	# ログアウトする
+	exit
+
+ターミナルで以下のコマンドを実行し、レポートのサンプルを取得する:  
 
 	wget https://github.com/haruosuz/DS4GD/raw/master/2017/examples_2016.tar.gz
 
@@ -131,13 +166,8 @@ Rを終了:
 
 ### 学習サイト
 - ドットインストール - 3分動画でマスターする初心者向けプログラミング学習サイト
-  - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix)
-  - [R言語入門 (全13回)](http://dotinstall.com/lessons/basic_r)
+ - [UNIXコマンド入門 (一般ユーザー編) (全16回)](http://dotinstall.com/lessons/basic_unix) の動画レッスン番号 #04 ~ #16
+  - [#10 ファイルの作成、削除、コピー、移動 (02:55)](http://dotinstall.com/lessons/basic_unix/5410) では、エディタ`vim`の代わりに、`touch test.txt`を実行して、ファイルを作成すればよい。
+ - [R言語入門 (全13回)](http://dotinstall.com/lessons/basic_r)
 
 ----------
-
-
-
-
-
-
