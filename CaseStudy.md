@@ -6,7 +6,7 @@
 **ケーススタディ**
 
 目次
-- [Unixコマンド]
+- [Unixコマンド](#unixコマンド)
 - [UniProtKB Swiss-Prot protein sequence database](#uniprotkb-swiss-prot-protein-sequence-database)
 - [Silva rRNA database](#silva-rrna-database)
 - [NCBI assembly summary](#ncbi-assembly-summary)
