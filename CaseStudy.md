@@ -14,6 +14,7 @@
 ----------
 
 ### Unixコマンド
+
 ![http://techacademy.jp/magazine/5155](http://static.techacademy.jp/magazine/wp-content/uploads/2015/01/ss-1-620x375.jpg)
 
 [ターミナル](http://techacademy.jp/magazine/5155)を開き、`bash`を起動する:  
@@ -75,7 +76,9 @@
 
 ![http://techacademy.jp/magazine/5155](http://static.techacademy.jp/magazine/wp-content/uploads/2015/01/ss-1-620x375.jpg)
 
-[ターミナル](http://techacademy.jp/magazine/5155)を開く。
+[ターミナル](http://techacademy.jp/magazine/5155)を開き、`bash`を起動する:  
+
+	bash
 
 プロジェクト・ディレクトリを作成し移動する:  
 
