@@ -94,65 +94,26 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 [λ18](http://classroom.sfc.keio.ac.jp/class/l-to/l-18.html)のiMac Retina 5k 27inch
 
 ### Unixコマンド
-
-[ターミナル](http://techacademy.jp/magazine/5155)を起動する。
-
 ![http://techacademy.jp/magazine/5155](http://static.techacademy.jp/magazine/wp-content/uploads/2015/01/ss-1-620x375.jpg)
 
-ターミナルで`bash`コマンドを入力する:  
+[ターミナル](http://techacademy.jp/magazine/5155)を開き、`bash`を起動する:  
 
 	bash
 
 ターミナルで以下のコマンドを実行する:  
 
-	# ディレクトリ間を移動する
-	cd
-
-	# 現在のディレクトリ内に存在する、ディレクトリやファイルを表示する
 	ls
-
-	# 今開いているディレクトリまでのパスを表示する
 	pwd
-
-	# 「projects」ディレクトリを作成する
-	mkdir projects
-
-	# 「projects」ディレクトリへ移動する
-	cd projects/
-
-	# 空ファイルを作成する
-	touch test.txt
-
-	# ファイルをコピーする
-	cp test.txt test2.txt
-
-	# ファイルやディレクトリの名前を変更する
-	mv test.txt test1.txt
-
-	# ファイルを削除する
-	rm test2.txt
-
-	# コマンドのマニュアルを開く。終了する場合に「q」を入力
-	man man
-
-	# ファイルやディレクトリの検索
-	find .
-
-	# ターミナル画面をクリアし、表示された文字を全て消去する
-	clear
-
-	# ログアウトする
-	exit
+	date
 
 ターミナルで以下のコマンドを実行し、レポートのサンプルを取得する:  
 
 	wget https://github.com/haruosuz/DS4GD/raw/master/2017/examples_2016.tar.gz
 
 ### R言語
+![http://cse.naro.affrc.go.jp/takezawa/r-tips/r/02.html](http://cse.naro.affrc.go.jp/takezawa/r-tips/r/image/Mac.gif)
 
 [R の起動と終了](http://cse.naro.affrc.go.jp/takezawa/r-tips/r/02.html)  
-
-![http://cse.naro.affrc.go.jp/takezawa/r-tips/r/02.html](http://cse.naro.affrc.go.jp/takezawa/r-tips/r/image/Mac.gif)
 
 Rコンソールで以下のコマンドを実行する。
 
