@@ -9,8 +9,8 @@ Last Update: 2017-04-01
 DATA SCIENCE FOR GENOME DYNAMICS [DS2]
 GENOME INFORMATICS
 
-- [2016 Spring](https://github.com/haruosuz/DS4GD/tree/master/2016)
 - [2017 Spring](https://github.com/haruosuz/DS4GD/tree/master/2017)
+- [2016 Spring](https://github.com/haruosuz/DS4GD/tree/master/2016)
 
 ----------
 
