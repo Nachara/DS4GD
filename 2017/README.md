@@ -108,13 +108,11 @@ SFC 2017年度 春学期 火曜日３時限 [λ18](http://classroom.sfc.keio.ac.
 	wget https://github.com/haruosuz/DS4GD/raw/master/2017/examples_2016.tar.gz
 
 ### R言語
-![http://cse.naro.affrc.go.jp/takezawa/r-tips/r/02.html](http://cse.naro.affrc.go.jp/takezawa/r-tips/r/image/Mac.gif)
-
 [R の起動と終了](http://cse.naro.affrc.go.jp/takezawa/r-tips/r/02.html)  
 
-Rコンソールで以下のコマンドを実行する。
+![http://cse.naro.affrc.go.jp/takezawa/r-tips/r/02.html](http://cse.naro.affrc.go.jp/takezawa/r-tips/r/image/Mac.gif)
 
-[graphicsのデモ](http://qiita.com/HirofumiYashima/items/d93e174d2de3d201c22a):  
+Rコンソールで[graphicsのデモ](http://qiita.com/HirofumiYashima/items/d93e174d2de3d201c22a)を実行する:  
 
 	demo(graphics)
 
